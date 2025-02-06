@@ -7,7 +7,7 @@ Kensuke Yoshida and Taro Toyoizumi,
 
 "A biological model of nonlinear dimensionality reduction"
 
-Preprint: https://www.biorxiv.org/content/10.1101/2024.03.13.584757v1
+Science Advances, 2025. https://www.science.org/doi/10.1126/sciadv.adp9048
 
 ## Requirements
 Simulations for the paper above were conducted in the following setup:
